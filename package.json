@@ -4,13 +4,16 @@
   "description": "",
   "main": "hello-cookies.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "start": "node hello-sessions.js",
+    "test": "nodemon hello-cookies.js"
   },
   "keywords": [],
   "author": "Casiano Rodriguez-Leon <casiano.rodriguez.leon@gmail.com> (https://github.com/crguezl)",
   "license": "ISC",
   "dependencies": {
     "cookie-parser": "^1.4.4",
-    "express": "^4.16.4"
+    "express": "^4.16.4",
+    "express-session": "^1.15.6",
+    "parseurl": "^1.3.2"
   }
 }
