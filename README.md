@@ -7,5 +7,6 @@
 
 # Sessions
 
-* [expressjs/session](https://github.com/expressjs/session)
+* [expressjs/session](https://github.com/expressjs/session) documentation
+* [Youtube: How To Use Session With ExpressJS](https://youtu.be/yaeD7OCIzOg)
 * [Youtube: Session Authentication in Express](https://youtu.be/OH6Z0dJ_Huk)
